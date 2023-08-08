@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishboraofficial
+- 👋 Hi, I’m @ashish-singh-bora
 - 👀 I’m interested in unique technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Youtube:- (@ashishboraofficial)
