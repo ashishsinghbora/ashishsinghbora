@@ -40,8 +40,8 @@
 
 
 - 👋 Hi, I’m @ashish-singh-bora
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in exploring technology because it's facinates me
+- 🌱 I’m currently learning Python? web development
 - 💞️ I’m looking to collaborate on Youtube:- ( @Techie-Ashish )
 - 📫 You can reach me via this Gmail ID:- ( mr.ashishsinghbora@gmail.com )
 
