@@ -1,12 +1,7 @@
 # Hello, I'm Ashish 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishsinghbora) 
 [![GitHub followers](https://img.shields.io/github/followers/ashishsinghbora?style=social)](https://github.com/ashishsinghbora) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Singh%20Bora-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 [![GitHub stars](https://img.shields.io/github/stars/ashishsinghbora?style=social)](https://github.com/ashishsinghbora)
-[![YouTube](https://img.shields.io/badge/YouTube-Ashish%20Singh%20Bora-red?style=flat-square&logo=youtube)](https://www.youtube.com/your-channel)
-[![Instagram](https://img.shields.io/badge/Instagram-ashishsinghbora99-purple?style=flat-square&logo=instagram)](https://www.instagram.com/your-instagram-profile)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ashishsinghbora-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/your-stackoverflow-profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-ashishsinghbora-brown?style=flat-square&logo=codechef)](https://www.codechef.com/users/your-codechef-handle)
 
 
 ## About Me
