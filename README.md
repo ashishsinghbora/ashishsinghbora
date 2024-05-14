@@ -64,7 +64,7 @@ Let's connect and collaborate on exciting ventures that push the boundaries of w
 <div id="current-project">
   <details>
     <summary>What I'm Currently Working On</summary>
-    I'm currently focused on Creating a mmorpg game and my personal website.
+    I'm currently focused on creating ___________________(can't share because it confidential) and my personal website.
   </details>
 </div>
 
