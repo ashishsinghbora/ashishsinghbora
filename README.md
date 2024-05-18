@@ -10,7 +10,7 @@ Hi there! I'm Ashish Singh Bora, a Computer Science and Engineering student at U
 
 Currently pursuing my BTech degree, I'm dedicated to honing my skills and knowledge in software development, data science, and machine learning. I believe in the power of technology to drive positive change and am eager to contribute to meaningful projects that make a difference.
 
-<a href="https://app.daily.dev/ashishsinghbora"><img src="https://api.daily.dev/devcards/v2/JCZtPWyN8QfW82XJu9FLN.png?type=default&r=6on" width="356" alt="ASHISH SINGH BORA's Dev Card"/></a>
+
 
 Let's connect and collaborate on exciting ventures that push the boundaries of what's possible in the world of tech!
 [![Linktree](https://img.shields.io/badge/Linktree-Ashish%20Singh%20Bora-green?style=for-the-badge&logo=linktree)](https://linktr.ee/ashishsinghbora)
@@ -38,10 +38,6 @@ Let's connect and collaborate on exciting ventures that push the boundaries of w
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsinghbora&theme=dark" width="400" height="195" style="border: 2px solid white;">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashishsinghbora&theme=darkhub)](https://github.com/ashishsinghbora)
-
-
-
-
 
 
 
