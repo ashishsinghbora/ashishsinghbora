@@ -39,7 +39,7 @@ Let's connect and collaborate on exciting ventures that push the boundaries of w
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashishsinghbora&theme=darkhub)](https://github.com/ashishsinghbora)
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/ashishsinghbora.png" alt="TryHackMe">
 
 
 <div id="my-interests">
