@@ -46,7 +46,7 @@ Let's connect and collaborate on exciting ventures that push the boundaries of w
   <details>
     <summary>My Interests</summary>
   </br> 
-       🐧 Linux Distros: I'm a bit of a Linux nomad, always hopping between distros to see what's out there. From Arch to Ubuntu, I love the thrill of trying something new and seeing where it takes me.
+       🐧 Linux Distros: I'm a bit of a Linux nomad, always hopping between distros to see what's out there. From Arch to Gentoo, I love the thrill of trying something new and seeing where it takes me.
    </br> </br>
        🎵 Music Lover: When I'm not knee-deep in code or glued to a manga, you can bet I've got my headphones on, grooving to my favorite tunes. Music is my escape, my inspiration, and my constant companion.
     </br></br>
