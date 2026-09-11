@@ -73,9 +73,17 @@ My work emphasizes deterministic execution, strict memory footprints (<30MB–50
 <!--END_SECTION:projects-->
 
 <!--START_SECTION:stats-->
+| Metric | Value / Overview |
+| :--- | :--- |
+| **Public Repositories** | `16` |
+| **Featured Repositories Stars** | `★ 10` |
+| **GitHub Community Followers** | `47` |
+| **Core Languages** | `Python` · `Kotlin` · `TypeScript` · `Shell` · `SystemVerilog` |
+| **Engineering Discipline** | Low-resource footprints, deterministic pipelines, verifiable CI/CD |
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:activity-->
+- *Activity feed temporarily cached. Refreshes on scheduled workflow run.*
 <!--END_SECTION:activity-->
 
 ## 🛠️ Technical Stack & Core Competencies
