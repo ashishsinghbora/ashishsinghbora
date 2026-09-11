@@ -72,10 +72,11 @@ My work emphasizes deterministic execution, strict memory footprints (<30MB–50
 - **Status:** Active · ★ 1
 <!--END_SECTION:projects-->
 
----
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
-
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🛠️ Technical Stack & Core Competencies
 
