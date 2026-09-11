@@ -99,32 +99,7 @@ Problem Domain Analysis → First-Principles Architecture → Minimal Dependenci
 - **Strict Resource Constraints:** Optimize for edge targets, memory budgets (<30MB–50MB RSS), and resilient error handling under low-resource conditions.
 - **Verifiable Automation:** Every major workflow should be deterministic, covered by automated test suites, and integrated into continuous deployment pipelines.
 
----
 
-## 📊 Overview & Profile Metrics
-
-<!--START_SECTION:stats-->
-| Metric | Value / Overview |
-| :--- | :--- |
-| **Public Repositories** | `15` |
-| **Featured Repositories Stars** | `★ 10` |
-| **GitHub Community Followers** | `38` |
-| **Core Languages** | `Python` · `Kotlin` · `TypeScript` · `Shell` · `SystemVerilog` |
-| **Engineering Discipline** | Low-resource footprints, deterministic pipelines, verifiable CI/CD |
-<!--END_SECTION:stats-->
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-- **Merged Pull Request** [Refactor/modernize how cli](https://github.com/FireHead90544/how-cli/pull/7) in [`FireHead90544/how-cli`](https://github.com/FireHead90544/how-cli)
-- **Opened Pull Request** [Fix missing start date when starting tracking manually](https://github.com/mihonapp/mihon/pull/3930) in [`mihonapp/mihon`](https://github.com/mihonapp/mihon)
-- **Opened Issue** [[Security Issue] Public Laravel Debug Mode Exposes Sensitive Application Information](https://github.com/ColoredCow/portal/issues/3887) in [`ColoredCow/portal`](https://github.com/ColoredCow/portal)
-- **Closed Issue** [GitHub Actions PyPI publish workflow failing with HTTP 400](https://github.com/FireHead90544/how-cli/issues/8) in [`FireHead90544/how-cli`](https://github.com/FireHead90544/how-cli)
-- **Pushed updates** to [`ashishsinghbora/Samanvaya`](https://github.com/ashishsinghbora/Samanvaya): *Harden raster I/O paths and enforce tile memory budgets*
-- **Pushed updates** to [`ashishsinghbora/ETS`](https://github.com/ashishsinghbora/ETS): *adopt light-first high-contrast theme for universal clarity*
-<!--END_SECTION:activity-->
 
 ---
 
