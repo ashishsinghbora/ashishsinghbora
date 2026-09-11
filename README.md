@@ -28,7 +28,7 @@ My work emphasizes deterministic execution, strict memory footprints (<30MB–50
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Personal Projects
 
 <!--START_SECTION:projects-->
 ### ⚙️ [Samanvaya](https://github.com/ashishsinghbora/Samanvaya)
