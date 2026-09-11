@@ -28,63 +28,7 @@ My work emphasizes deterministic execution, strict memory footprints (<30MB–50
 
 ---
 
-## 🚀 Personal Projects
 
-<!--START_SECTION:projects-->
-### ⚙️ [Samanvaya](https://github.com/ashishsinghbora/Samanvaya)
-> Planetary image registration engine for lunar optical and NIR datasets under extreme shadow reversals
-
-- **Domain:** Computer Vision / Planetary Science
-- **Technologies:** `Python` · `PyTorch` · `LoFTR` · `GDAL/Rasterio` · `Kornia`
-- **Highlight:** Engineered for Smart India Hackathon (SIH) — ISRO Chandrayaan-2 payloads
-- **Status:** Active Research · ★ 3 · ⑂ 2
-
-### ⚙️ [EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)
-> Autonomous EDA and VLSI verification assistant bridging SystemVerilog with cocotb closed-loop repair
-
-- **Domain:** Hardware Verification / AI Agents
-- **Technologies:** `Python` · `SystemVerilog` · `cocotb` · `Verilator` · `Yosys` · `Docker`
-- **Highlight:** Automated RTL parsing, linting, synthesizability checks, and testbench synthesis
-- **Status:** Active · ★ 2 · ⑂ 1
-
-### ⚙️ [Flashcore](https://github.com/ashishsinghbora/Flashcore)
-> Non-root Android utility to create bootable USB drives via USB OTG
-
-- **Domain:** Systems / Android Platform
-- **Technologies:** `Kotlin` · `Android NDK` · `C++17` · `Linux Hybrid ISO` · `UEFI WIM`
-- **Highlight:** Creates Linux Hybrid, Windows UEFI (with WIM splitting), and Ventoy media without root
-- **Status:** Beta · ★ 3
-
-### ⚙️ [Void](https://github.com/ashishsinghbora/Void)
-> Ultra-lightweight local agentic platform designed to run natively inside Android/Termux (<50MB RAM)
-
-- **Domain:** Edge AI / Embedded Systems
-- **Technologies:** `Python` · `Shell` · `Telegram API` · `Termux API` · `Local LLMs`
-- **Highlight:** Eliminates server overhead; rich TUI, Telegram control, and cloud brain sync
-- **Status:** Active · ★ 1
-
-### ⚙️ [ETS](https://github.com/ashishsinghbora/ETS)
-> Client-side encrypted tiered storage pipeline for Linux SBCs and low-resource home servers
-
-- **Domain:** Systems / Cloud Storage
-- **Technologies:** `Shell` · `Python` · `MergerFS` · `Rclone` · `AES-256-GCM` · `Systemd`
-- **Highlight:** Unifies local NVMe/SSD cache with encrypted cloud remotes into a zero-buffer mount
-- **Status:** Active · ★ 1
-<!--END_SECTION:projects-->
-
-<!--START_SECTION:stats-->
-| Metric | Value / Overview |
-| :--- | :--- |
-| **Public Repositories** | `16` |
-| **Featured Repositories Stars** | `★ 10` |
-| **GitHub Community Followers** | `47` |
-| **Core Languages** | `Python` · `Kotlin` · `TypeScript` · `Shell` · `SystemVerilog` |
-| **Engineering Discipline** | Low-resource footprints, deterministic pipelines, verifiable CI/CD |
-<!--END_SECTION:stats-->
-
-<!--START_SECTION:activity-->
-- *Activity feed temporarily cached. Refreshes on scheduled workflow run.*
-<!--END_SECTION:activity-->
 
 ## 🛠️ Technical Stack & Core Competencies
 
