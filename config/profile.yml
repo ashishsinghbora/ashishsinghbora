@@ -1,0 +1,93 @@
+# ==============================================================================
+# GitHub Profile Configuration: ashishsinghbora
+# ==============================================================================
+# This configuration drives the automated sections in README.md:
+#   - <!--START_SECTION:now--> ... <!--END_SECTION:now-->
+#   - <!--START_SECTION:projects--> ... <!--END_SECTION:projects-->
+#   - <!--START_SECTION:stats--> ... <!--END_SECTION:stats-->
+#   - <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
+# ==============================================================================
+
+username: "ashishsinghbora"
+
+now:
+  building:
+    - name: "Samanvaya"
+      url: "https://github.com/ashishsinghbora/Samanvaya"
+      description: "Lunar optical & NIR registration engine for Chandrayaan-2 datasets under extreme shadow reversals"
+    - name: "EDA-Agent"
+      url: "https://github.com/ashishsinghbora/EDA-Agent"
+      description: "Autonomous VLSI verification framework automating RTL linting, Yosys synthesis, and cocotb self-repair"
+  learning:
+    - "Subpixel planetary photogrammetry and deep dense feature matching (LoFTR)"
+    - "Linux kernel storage subsystems, FUSE/MergerFS architectures, and encrypted storage pipelines"
+    - "Constrained edge agent orchestration (<30MB RAM footprint on Android/Termux)"
+  contributing:
+    - "Open-source Android developer ecosystem (Mihon tracking synchronization)"
+    - "AI-driven developer tooling and CLI utilities (how-cli)"
+
+featured_repositories:
+  - name: "Samanvaya"
+    repo: "ashishsinghbora/Samanvaya"
+    tagline: "Planetary image registration engine for lunar optical and NIR datasets under extreme shadow reversals"
+    domain: "Computer Vision / Planetary Science"
+    tech: "Python, PyTorch, LoFTR, GDAL/Rasterio, Kornia"
+    status: "Active Research"
+    highlight: "Engineered for Smart India Hackathon (SIH) — ISRO Chandrayaan-2 payloads"
+  - name: "EDA-Agent"
+    repo: "ashishsinghbora/EDA-Agent"
+    tagline: "Autonomous EDA and VLSI verification assistant bridging SystemVerilog with cocotb closed-loop repair"
+    domain: "Hardware Verification / AI Agents"
+    tech: "Python, SystemVerilog, cocotb, Verilator, Yosys, Docker"
+    status: "Active"
+    highlight: "Automated RTL parsing, linting, synthesizability checks, and testbench synthesis"
+  - name: "Flashcore"
+    repo: "ashishsinghbora/Flashcore"
+    tagline: "Non-root Android utility to create bootable USB drives via USB OTG"
+    domain: "Systems / Android Platform"
+    tech: "Kotlin, Android NDK, C++17, Linux Hybrid ISO, UEFI WIM"
+    status: "Beta"
+    highlight: "Creates Linux Hybrid, Windows UEFI (with WIM splitting), and Ventoy media without root"
+  - name: "Void"
+    repo: "ashishsinghbora/Void"
+    tagline: "Ultra-lightweight local agentic platform designed to run natively inside Android/Termux (<50MB RAM)"
+    domain: "Edge AI / Embedded Systems"
+    tech: "Python, Shell, Telegram API, Termux API, Local LLMs"
+    status: "Active"
+    highlight: "Eliminates server overhead; rich TUI, Telegram control, and cloud brain sync"
+  - name: "ETS"
+    repo: "ashishsinghbora/ETS"
+    tagline: "Client-side encrypted tiered storage pipeline for Linux SBCs and low-resource home servers"
+    domain: "Systems / Cloud Storage"
+    tech: "Shell, Python, MergerFS, Rclone, AES-256-GCM, Systemd"
+    status: "Active"
+    highlight: "Unifies local NVMe/SSD cache with encrypted cloud remotes into a zero-buffer mount"
+
+open_source_contributions:
+  - project: "how-cli"
+    upstream: "FireHead90544/how-cli"
+    url: "https://github.com/FireHead90544/how-cli"
+    role: "Core Contributor"
+    contribution: "Modernized CLI assistant architecture: implemented lazy LLM loading, provider isolation, comprehensive test suites, and fixed PyPI packaging workflow."
+    reference_url: "https://github.com/FireHead90544/how-cli/pull/7"
+    reference_label: "PR #7 (Merged)"
+  - project: "mihon"
+    upstream: "mihonapp/mihon"
+    url: "https://github.com/mihonapp/mihon"
+    role: "Contributor"
+    contribution: "Fixed missing start date when initiating tracking manually in Tachiyomi/Mihon tracker core, including comprehensive Kotlin unit tests."
+    reference_url: "https://github.com/mihonapp/mihon/pull/3930"
+    reference_label: "PR #3930"
+  - project: "ColoredCow Portal"
+    upstream: "ColoredCow/portal"
+    url: "https://github.com/ColoredCow/portal"
+    role: "Security Researcher"
+    contribution: "Identified and responsibly disclosed public Laravel debug mode exposure leaking sensitive production environment details."
+    reference_url: "https://github.com/ColoredCow/portal/issues/3887"
+    reference_label: "Issue #3887"
+
+links:
+  portfolio: "https://ashishsinghbora.github.io/Portfolio/"
+  github: "https://github.com/ashishsinghbora"
+  linktree: "https://linktr.ee/ashishsinghbora"
+  coffee: "https://www.buymeacoffee.com/ashishsinghbora"

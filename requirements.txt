@@ -1,0 +1,4 @@
+# Optional dependencies. The profile generator has zero mandatory external dependencies
+# and runs with standard Python 3.8+ libraries out-of-the-box.
+# PyYAML is included for environments with pip.
+PyYAML>=6.0.1
