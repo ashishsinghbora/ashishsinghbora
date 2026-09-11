@@ -74,17 +74,8 @@ My work emphasizes deterministic execution, strict memory footprints (<30MB–50
 
 ---
 
-## 🌐 Open Source Contributions
 
-I believe in contributing meaningful engineering back to the software ecosystem I rely on. External contributions are clearly distinguished from personal repositories:
 
-| Project | Upstream Repository | Role | Contribution & Impact | Reference |
-| :--- | :--- | :--- | :--- | :--- |
-| **how-cli** | [`FireHead90544/how-cli`](https://github.com/FireHead90544/how-cli) | Core Contributor | Modernized architecture: lazy LLM loading, provider isolation, modular error handling, comprehensive test suites, and fixed PyPI packaging workflow. | [PR #7 (Merged)](https://github.com/FireHead90544/how-cli/pull/7) |
-| **Mihon** | [`mihonapp/mihon`](https://github.com/mihonapp/mihon) | Contributor | Resolved missing start date issue when initiating tracking manually in Tachiyomi/Mihon tracker core, backed by Kotlin unit tests. | [PR #3930](https://github.com/mihonapp/mihon/pull/3930) |
-| **ColoredCow Portal** | [`ColoredCow/portal`](https://github.com/ColoredCow/portal) | Security Researcher | Identified and responsibly disclosed public Laravel debug exposure leaking sensitive production environment details. | [Issue #3887](https://github.com/ColoredCow/portal/issues/3887) |
-
----
 
 ## 🛠️ Technical Stack & Core Competencies
 
