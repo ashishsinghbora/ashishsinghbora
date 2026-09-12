@@ -417,6 +417,15 @@ def extract_section(readme_text: str, section_name: str) -> str:
     return match.group(1) if match else ""
 
 
+def has_section(readme_text: str, section_name: str) -> bool:
+    """Checks if section markers exist in the readme."""
+    pattern = re.compile(
+        rf"<!--START_SECTION:{re.escape(section_name)}-->.*?<!--END_SECTION:{re.escape(section_name)}-->",
+        re.DOTALL,
+    )
+    return bool(pattern.search(readme_text))
+
+
 def replace_section(readme_text: str, section_name: str, new_content: str) -> str:
     """
     Safely replaces content between <!--START_SECTION:name--> and <!--END_SECTION:name-->.
@@ -442,9 +451,8 @@ def update_readme(config_path: Path, readme_path: Path, dry_run: bool = False) -
     Main execution pipeline:
     1. Read configuration
     2. Read current README
-    3. Generate updated sections
-    4. Replace sections
-    5. Write back if modified
+    3. Generate and update sections present in README
+    4. Write back if modified
     """
     config = load_config(config_path)
     if not readme_path.is_file():
@@ -453,24 +461,26 @@ def update_readme(config_path: Path, readme_path: Path, dry_run: bool = False) -
     current_readme = readme_path.read_text(encoding="utf-8")
     client = GitHubClient()
 
-    # Extract existing content for fallback safety
-    curr_now = extract_section(current_readme, "now")
-    curr_projects = extract_section(current_readme, "projects")
-    curr_stats = extract_section(current_readme, "stats")
-    curr_activity = extract_section(current_readme, "activity")
-
-    # Generate sections
-    new_now = generate_now_markdown(config)
-    new_projects = generate_projects_markdown(config, client)
-    new_stats = generate_stats_markdown(config, client, curr_stats)
-    new_activity = generate_activity_markdown(config, client, curr_activity)
-
-    # Perform targeted updates
     updated = current_readme
-    updated = replace_section(updated, "now", new_now)
-    updated = replace_section(updated, "projects", new_projects)
-    updated = replace_section(updated, "stats", new_stats)
-    updated = replace_section(updated, "activity", new_activity)
+
+    # Perform targeted updates only for sections present in the README
+    if has_section(updated, "now"):
+        new_now = generate_now_markdown(config)
+        updated = replace_section(updated, "now", new_now)
+
+    if has_section(updated, "projects"):
+        new_projects = generate_projects_markdown(config, client)
+        updated = replace_section(updated, "projects", new_projects)
+
+    if has_section(updated, "stats"):
+        curr_stats = extract_section(current_readme, "stats")
+        new_stats = generate_stats_markdown(config, client, curr_stats)
+        updated = replace_section(updated, "stats", new_stats)
+
+    if has_section(updated, "activity"):
+        curr_activity = extract_section(current_readme, "activity")
+        new_activity = generate_activity_markdown(config, client, curr_activity)
+        updated = replace_section(updated, "activity", new_activity)
 
     if updated == current_readme:
         print("README is already up to date. No changes required.")

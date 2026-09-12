@@ -20,20 +20,20 @@ ashishsinghbora/
 └── README.md                 # Profile README with bounded dynamic sections
 ```
 
-Dynamic sections inside [README.md](file:///home/ux0/master/man/non/README.md) are strictly delimited by HTML comment markers:
+Dynamic sections inside [README.md](README.md) are strictly delimited by HTML comment markers:
 - `<!--START_SECTION:now-->` ... `<!--END_SECTION:now-->`: Current focus (building, learning, contributing)
 - `<!--START_SECTION:projects-->` ... `<!--END_SECTION:projects-->`: Featured repositories with live stars/forks
 - `<!--START_SECTION:stats-->` ... `<!--END_SECTION:stats-->`: Profile overview and repo metrics
 - `<!--START_SECTION:activity-->` ... `<!--END_SECTION:activity-->`: Genuine recent GitHub PR, issue, and push events
 
-Any content outside these marker blocks is static and will never be modified or overwritten by automation.
+Sections are optional: if a section's delimiters are omitted from `README.md`, the generator gracefully skips updating that section without error. Any content outside these marker blocks is static and will never be modified or overwritten by automation.
 
 ---
 
 ## ⚙️ How to Modify Your Profile
 
 ### 1. Update What You're Currently Working On
-Edit the `now` block in [`config/profile.yml`](file:///home/ux0/master/man/non/config/profile.yml):
+Edit the `now` block in [`config/profile.yml`](config/profile.yml):
 ```yaml
 now:
   building:
@@ -47,7 +47,7 @@ now:
 ```
 
 ### 2. Add or Reorder Featured Repositories
-Add an entry to `featured_repositories` in [`config/profile.yml`](file:///home/ux0/master/man/non/config/profile.yml):
+Add an entry to `featured_repositories` in [`config/profile.yml`](config/profile.yml):
 ```yaml
 featured_repositories:
   - name: "NewProject"
@@ -62,7 +62,7 @@ featured_repositories:
 The generator will automatically query GitHub's API for the repository's live stars, forks, and default URL. If GitHub's API is unreachable, it seamlessly falls back to the configured description and status.
 
 ### 3. Record Meaningful External Contributions
-Add an entry to `open_source_contributions` in [`config/profile.yml`](file:///home/ux0/master/man/non/config/profile.yml) and reference it in the manual table within [README.md](file:///home/ux0/master/man/non/README.md).
+Add an entry to `open_source_contributions` in [`config/profile.yml`](config/profile.yml) and reference it in the manual table within [README.md](README.md).
 
 ---
 
@@ -96,11 +96,11 @@ python3 scripts/update_profile.py --check
 
 ## 🤖 GitHub Actions Workflow
 
-The workflow at [`.github/workflows/update-profile.yml`](file:///home/ux0/master/man/non/.github/workflows/update-profile.yml):
+The workflow at [`.github/workflows/update-profile.yml`](.github/workflows/update-profile.yml):
 1. Runs automatically on a daily schedule (`06:00 UTC`), on manual trigger (`workflow_dispatch`), and on pushes touching `config/**` or `scripts/**`.
 2. Uses minimum necessary token permissions: `permissions: contents: write`.
 3. Runs the test suite before touching anything.
-4. Executes [`scripts/update_profile.py`](file:///home/ux0/master/man/non/scripts/update_profile.py) with `${{ secrets.GITHUB_TOKEN }}` to fetch authenticated metrics (1,000 requests/hour limit).
+4. Executes [`scripts/update_profile.py`](scripts/update_profile.py) with `${{ secrets.GITHUB_TOKEN }}` to fetch authenticated metrics (1,000 requests/hour limit).
 5. Compares `git diff --quiet README.md`. If changes exist, commits with `chore(profile): auto-update README [skip ci]` to prevent workflow loops.
 6. Does not create empty commits if no data changed.
 

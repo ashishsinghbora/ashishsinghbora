@@ -109,6 +109,10 @@ class TestSectionExtractionAndReplacement(unittest.TestCase):
         with self.assertRaises(ValueError):
             update_profile.replace_section(self.sample_readme, "missing_sec", "text")
 
+    def test_has_section(self):
+        self.assertTrue(update_profile.has_section(self.sample_readme, "testsec"))
+        self.assertFalse(update_profile.has_section(self.sample_readme, "missing_sec"))
+
 
 class TestGenerators(unittest.TestCase):
     """Verifies generation of Markdown for each dynamic section."""
@@ -236,21 +240,47 @@ class TestIdempotency(unittest.TestCase):
         config_path = REPO_ROOT / "config" / "profile.yml"
         original_content = readme_path.read_text(encoding="utf-8")
 
-        # Mock API to return predictable responses
-        with patch.object(update_profile.GitHubClient, "get_repo", return_value=None), \
-             patch.object(update_profile.GitHubClient, "get_user", return_value=None), \
-             patch.object(update_profile.GitHubClient, "get_user_events", return_value=None):
-            
-            # First pass
-            update_profile.update_readme(config_path, readme_path, dry_run=False)
-            pass1 = readme_path.read_text(encoding="utf-8")
+        try:
+            # Mock API to return predictable responses
+            with patch.object(update_profile.GitHubClient, "get_repo", return_value=None), \
+                 patch.object(update_profile.GitHubClient, "get_user", return_value=None), \
+                 patch.object(update_profile.GitHubClient, "get_user_events", return_value=None):
+                
+                # First pass
+                update_profile.update_readme(config_path, readme_path, dry_run=False)
+                pass1 = readme_path.read_text(encoding="utf-8")
 
-            # Second pass
-            changed = update_profile.update_readme(config_path, readme_path, dry_run=False)
-            pass2 = readme_path.read_text(encoding="utf-8")
+                # Second pass
+                changed = update_profile.update_readme(config_path, readme_path, dry_run=False)
+                pass2 = readme_path.read_text(encoding="utf-8")
 
-            self.assertFalse(changed, "Second run should report no changes (idempotent)")
-            self.assertEqual(pass1, pass2, "Second run output must be byte-for-byte identical")
+                self.assertFalse(changed, "Second run should report no changes (idempotent)")
+                self.assertEqual(pass1, pass2, "Second run output must be byte-for-byte identical")
+        finally:
+            readme_path.write_text(original_content, encoding="utf-8")
+
+    def test_partial_sections_handling(self):
+        """Ensures update_readme succeeds when only a subset of sections are present."""
+        import tempfile
+        config_path = REPO_ROOT / "config" / "profile.yml"
+        partial_readme = (
+            "# Title\n\n"
+            "<!--START_SECTION:now-->\nold now\n<!--END_SECTION:now-->\n"
+        )
+        with tempfile.NamedTemporaryFile("w+", suffix=".md", delete=False) as f:
+            f.write(partial_readme)
+            temp_path = Path(f.name)
+
+        try:
+            with patch.object(update_profile.GitHubClient, "get_repo", return_value=None), \
+                 patch.object(update_profile.GitHubClient, "get_user", return_value=None), \
+                 patch.object(update_profile.GitHubClient, "get_user_events", return_value=None):
+                changed = update_profile.update_readme(config_path, temp_path, dry_run=False)
+                self.assertTrue(changed)
+                updated_content = temp_path.read_text(encoding="utf-8")
+                self.assertIn("Active Systems & Engineering Projects", updated_content)
+        finally:
+            temp_path.unlink()
 
 
 if __name__ == "__main__":
