@@ -1,64 +1,172 @@
-# Ashish Singh Bora
+ashish@linux:~$
 
-**Computer Science & Engineering | Systems, AI/ML & Open Source**  
-Uttarakhand, India · [Portfolio](https://ashishsinghbora.github.io/Portfolio/) · [GitHub](https://github.com/ashishsinghbora) · [Linktree](https://linktr.ee/ashishsinghbora)
+Ashish Singh Bora
 
----
+Linux & Systems Developer · Open Source · AI/ML
 
-I am a Computer Science and Engineering undergraduate focused on computer vision for planetary remote sensing, autonomous electronic design automation (EDA) verification workflows, and resource-conscious systems engineering.
+￼ 
 
-My work emphasizes deterministic execution, strict memory footprints (<30MB–50MB), client-side encryption, and automated closed-loop verification pipelines across bare metal Linux, single-board computers (SBCs), and Android/Termux environments.
+￼ ￼ ￼ 
 
----
+$ whoami
 
-## 🧭 Currently Building & Learning
+┌──────────────────────────────────────────────────────────────┐ │ ashish@linux │ ├──────────────────────────────────────────────────────────────┤ │ │ │ Role :: Computer Science & Engineering │ │ Focus :: Linux • Systems • Open Source • AI/ML │ │ Environment :: Arch Linux • Debian • Termux │ │ Languages :: Python • C/C++ • Bash • TypeScript • Kotlin │ │ Workflow :: Git • CI/CD • Docker • Podman │ │ │ └──────────────────────────────────────────────────────────────┘ 
 
-<!--START_SECTION:now-->
-- 🔨 **Active Systems & Engineering Projects:**
-  - [**Samanvaya**](https://github.com/ashishsinghbora/Samanvaya) — Lunar optical & NIR registration engine for Chandrayaan-2 datasets under extreme shadow reversals
-  - [**EDA-Agent**](https://github.com/ashishsinghbora/EDA-Agent) — Autonomous VLSI verification framework automating RTL linting, Yosys synthesis, and cocotb self-repair
-- 🔬 **Active Research & Deep Learning Areas:**
-  - Subpixel planetary photogrammetry and deep dense feature matching (LoFTR)
-  - Linux kernel storage subsystems, FUSE/MergerFS architectures, and encrypted storage pipelines
-  - Constrained edge agent orchestration (<30MB RAM footprint on Android/Termux)
-- 🤝 **Open Source Engagements:**
-  - Open-source Android developer ecosystem (Mihon tracking synchronization)
-  - AI-driven developer tooling and CLI utilities (how-cli)
-<!--END_SECTION:now-->
+I'm a Computer Science & Engineering undergraduate from Uttarakhand, India, interested in Linux systems, infrastructure, developer tooling, automation, AI/ML, EDA, and open source.
 
----
+I like working close to the machine — understanding how software interacts with the operating system, hardware, networking, storage, and runtime environment.
 
+Application ↓ Runtime ↓ Operating System ↓ Kernel ↓ Hardware 
 
+$ ./current-focus
 
-## 🛠️ Technical Stack & Core Competencies
+🐧 Linux & Systems
 
-All technologies listed below are directly reflected in working code across my public repositories:
+Linux ├── Arch Linux ├── Debian ├── Termux ├── systemd ├── Networking ├── Storage └── Containers 
 
-- **Languages:** Python (Modern 3.10+), Kotlin, TypeScript, Bash / POSIX Shell, SystemVerilog / Verilog, C++ (NDK integration)
-- **Machine Learning & Computer Vision:** PyTorch, Kornia, LoFTR (Deep Feature Matching), Phase Congruency, Subpixel Photogrammetry, GeoTIFF / GDAL / Rasterio
-- **Systems & Infrastructure:** Linux (Arch Linux, Debian, Termux), Storage Pipelines (MergerFS, Rclone, AES-256-GCM, systemd user services), Android Architecture & NDK, OTG Storage & Filesystem Partitioning (GPT/MBR, FAT32/NTFS WIM splitting), Docker
-- **Hardware & EDA Tooling:** Verilator (Linting & Simulation), Yosys (Gate-Level Synthesis), cocotb (Cocotb Testbench Generation & Co-simulation), Icarus Verilog
-- **Developer Tooling & Testing:** Git, GitHub Actions (CI/CD Automation), Pytest, Playwright, Vitest, Textual / Rich TUI
+⚙️ Developer Tooling
 
----
+CLI / TUI ├── Bash ├── Python ├── Automation ├── Git ├── CI/CD └── Testing 
 
-## 📐 Engineering Approach
+🔬 AI / ML
 
-```text
-Problem Domain Analysis → First-Principles Architecture → Minimal Dependencies → Automated Testing → Benchmarking → Verifiable Delivery
-```
+Machine Learning ├── Computer Vision ├── Reinforcement Learning ├── Edge AI ├── Autonomous Systems └── AI tooling 
 
-- **Zero-Bloat First:** Eliminate unnecessary web servers, heavy runtimes, or unneeded dependencies when a lean daemon or standard POSIX shell pipeline solves the problem cleanly.
-- **Strict Resource Constraints:** Optimize for edge targets, memory budgets (<30MB–50MB RSS), and resilient error handling under low-resource conditions.
-- **Verifiable Automation:** Every major workflow should be deterministic, covered by automated test suites, and integrated into continuous deployment pipelines.
+🧪 Hardware / EDA
 
+EDA ├── RTL ├── Verilator ├── Yosys ├── Cocotb └── Verification 
 
+$ ls ~/projects
 
----
+🛡️ ResilienceOS
 
-## 🔗 Connect
+Arch Linux · Recovery · Offline Systems
 
-- **Portfolio:** [ashishsinghbora.github.io/Portfolio](https://ashishsinghbora.github.io/Portfolio/)
-- **GitHub:** [@ashishsinghbora](https://github.com/ashishsinghbora)
-- **Linktree:** [linktr.ee/ashishsinghbora](https://linktr.ee/ashishsinghbora)
-- **Buy Me a Coffee:** [buymeacoffee.com/ashishsinghbora](https://www.buymeacoffee.com/ashishsinghbora)
+A resource-conscious Linux environment focused on resilient operation, offline workflows, networking and field-use scenarios.
+
+Stack
+
+Arch Linux archiso LXQt Openbox Podman
+
+→ Repository
+
+🤖 ARL
+
+Reinforcement Learning · Autonomous Systems
+
+Research-oriented work around multi-task reinforcement learning and autonomous drone environments.
+
+Stack
+
+Python RL Simulation AI
+
+→ Repository
+
+🧪 EDA-Agent
+
+AI Agents · RTL · Verification
+
+Automation around RTL development and verification workflows.
+
+Stack
+
+Python Verilator Yosys Cocotb
+
+→ Repository
+
+🧅 OnionScan
+
+Security · CLI · Open Source
+
+Security-oriented tooling for reconnaissance and analysis workflows around Tor hidden services.
+
+Stack
+
+Go CLI Security Open Source
+
+→ Repository
+
+$ neofetch
+
+.--. |o_o | ashish@linux |:_/ | ───────────────────── // \ \ OS :: Linux (| | ) Shell :: Bash /'\_ _/`\ Editor :: Vim \___)=(___/ Focus :: Systems Languages:: Python / C / C++ Tools :: Git / Docker / CI Runtime :: Linux / Termux 
+
+$ cat ~/toolbox
+
+Languages
+
+￼ 
+
+Systems & Infrastructure
+
+￼ 
+
+AI / Engineering
+
+￼ 
+
+EDA ├── Verilator ├── Yosys ├── Cocotb └── RTL Verification 
+
+$ systemctl status engineering
+
+● engineering.service Loaded: enabled Active: active (running) ├─ linux.service ├─ systems.service ├─ opensource.service ├─ automation.service ├─ ai-research.service └─ learning.service Status: Building systems... Testing assumptions... Breaking things intentionally... Fixing them properly... 
+
+$ cat engineering-principles.txt
+
+01 Understand the system before abstracting it. 02 Prefer simple solutions over unnecessary complexity. 03 Keep dependencies intentional. 04 Automate repetitive work. 05 Test failure paths, not only happy paths. 06 Measure before optimizing. 07 Make failures observable. 08 Design for constrained environments. 09 Document decisions and trade-offs. 10 Ship working software before chasing sophistication. 
+
+$ ./opensource
+
+I enjoy contributing to projects where the engineering process matters as much as the final code.
+
+Issue │ ├── Reproduce │ ├── Understand │ ├── Design │ ├── Implement │ ├── Test │ ├── Review │ └── Document 
+
+Areas I like working on
+
+Linux tooling
+
+CLI/TUI applications
+
+Developer infrastructure
+
+AI developer tools
+
+Security tooling
+
+EDA automation
+
+Edge computing
+
+Autonomous systems
+
+Infrastructure automation
+
+$ ./research
+
+┌──────────────────────────────────────────────────────────────┐ │ RESEARCH │ ├──────────────────────────────────────────────────────────────┤ │ │ │ Reinforcement Learning │ │ ├── Multi-task environments │ │ ├── Autonomous navigation │ │ └── Simulation │ │ │ │ Computer Vision │ │ ├── Feature matching │ │ ├── Remote sensing │ │ └── Geospatial imagery │ │ │ │ Hardware / EDA │ │ ├── RTL verification │ │ ├── Simulation │ │ ├── Synthesis │ │ └── Automated testing │ │ │ └──────────────────────────────────────────────────────────────┘ 
+
+$ github --stats
+
+￼ ￼ 
+
+$ git activity
+
+￼ 
+
+$ git streak
+
+￼ 
+
+$ cat roadmap
+
+2026 │ ├── Strengthen Linux & systems fundamentals │ ├── Build production-quality CLI/TUI software │ ├── Improve testing + CI/CD discipline │ ├── Research reinforcement learning │ ├── Explore EDA automation │ ├── Contribute consistently to open source │ └── Turn experiments into reproducible projects 
+
+$ ./connect
+
+ashish@linux:~$ ./connect --all
+
+￼ ￼ ￼ ￼ 
+
+┌──────────────────────────────────────────────────────────────┐ │ │ │ $ uptime │ │ │ │ Building → Testing → Measuring → Learning → Shipping │ │ │ │ Connection closed. │ │ │ └──────────────────────────────────────────────────────────────┘ 
+
+Linux · Open Source · Systems · AI · Engineering
+
