@@ -1,92 +1,44 @@
-ashish@github:~$ whoami
-
 Ashish Singh Bora
 
-Computer Science & Engineering · Linux · Systems · AI/ML · Open Source
+Computer Science Engineer · Linux · AI/ML · Open Source
 
-￼ ￼ ￼ 
+GitHub · LinkedIn
 
-┌──[ashish@linux]─[~] └─$ neofetch OS → Linux Focus → Systems Engineering / AI-ML / Open Source Environment → Arch Linux · Debian · Termux Workflow → CLI · Git · Automation · Testing Languages → Python · C++ · Bash · TypeScript · Kotlin Philosophy → Minimal dependencies. Deterministic systems. Verifiable code. 
+> whoami
 
-$ cat about.txt
+Computer Science & Engineering student focused on Linux systems, AI/ML, automation, and open-source engineering.
 
-I'm a Computer Science & Engineering student building software at the intersection of Linux systems, AI/ML, automation, and open source.
+I like building practical systems, understanding how they work underneath, and improving them through testing and iteration.
 
-I enjoy understanding systems from the bottom up — from Linux environments and CLI tooling to machine-learning pipelines and resource-constrained applications.
+> current_focus
 
-My preferred engineering style is simple:
+🐧 Linux & Systems Engineering
 
-Understand the system → design the smallest reliable solution → automate it → test it → measure it.
+🤖 Machine Learning & Reinforcement Learning
 
-$ ls ~/projects
+🔧 Developer Tools & Automation
 
-🔬 Research & Engineering
+🌐 Open Source
 
-ProjectWhat I'm buildingARLReinforcement-learning research and autonomous systems experimentsSamanvayaComputer-vision / scientific-data processing projectResilienceOSA lightweight Arch-based field/disaster-recovery Linux environmentSelfLearningMLExperimental machine-learning systems and learning environments 
+🔬 Research-oriented projects
 
-🧰 Developer / Open Source Work
+> projects
 
-I actively work with open-source projects through:
+ARL
+Reinforcement-learning research and autonomous systems.
 
-Pull-request reviews
+Samanvaya
+Open-source project focused on practical software engineering.
 
-Bug investigation
+ResilienceOS
+Lightweight Arch-based Linux environment for resilient/offline use.
 
-Issue creation
+SelfLearningML
+Experimental machine-learning projects and learning systems.
 
-CI/CD
+> stack
 
-Automated testing
+Linux · Arch · Python · C++ · Bash · Git · GitHub Actions · PyTorch · TensorFlow
 
-Developer tooling
-
-Linux / CLI workflows
-
-$ cat stack.txt
-
-Systems
-
-￼ 
-
-Programming
-
-￼ 
-
-AI / Machine Learning
-
-￼ 
-
-Development
-
-￼ 
-
-$ cat principles.md
-
-01. Keep systems understandable. 02. Prefer simple architecture over unnecessary abstraction. 03. Minimize dependencies when possible. 04. Automate repetitive work. 05. Test before claiming something works. 06. Measure performance instead of guessing. 07. Treat failure handling as part of the design. 08. Build software that survives outside the demo. 
-
-$ git log --oneline
-
-research → AI / ML / computer vision systems → Linux / CLI / automation opensource → issues / PRs / code review experiments → robotics / RL / distributed systems learning → fundamentals → implementation → research 
-
-$ ./github-stats
-
-￼ ￼ 
-
-￼ 
-
-$ ./activity
-
-￼
-
-$ cat current_focus.txt
-
-[+] Linux systems [+] Reinforcement learning [+] Machine learning [+] Computer vision [+] Open-source engineering [+] Automation & developer tooling [+] Research-oriented projects 
-
-$ ./connect
-
-Build → Break → Understand → Improve
-
-GitHub · Portfolio · LinkedIn
-
-$ echo "There is always another layer to understand." There is always another layer to understand. 
+Build. Test. Understand. Improve.
 
