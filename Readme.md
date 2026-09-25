@@ -4,64 +4,76 @@
 
 **Computer Science Engineer · Linux & Systems · AI/ML · Open Source**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashishsinghbora-181717?style=for-the-badge&logo=github)](https://github.com/ashishsinghbora)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Singh%20Bora-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashishsinghbora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashishsinghbora.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashishsinghbora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishsinghbora/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0052CC?style=flat-square&logo=safari&logoColor=white)](https://ashishsinghbora.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.ashishsinghbora@gmail.com)
+
+<br/>
+
+<a href="https://github.com/ashishsinghbora">
+  <img src="assets/profile-metrics.svg" alt="Ashish's Systems Telemetry and Metrics" width="840" />
+</a>
 
 </div>
 
 ---
 
-## whoami
+### $ whoami
 
-Computer Science student focused on **Linux systems, AI/ML, automation, and open source**.
+```text
+Host        : ashish@archlinux
+Kernel      : Linux x86_64
+Role        : Computer Science Engineer
+Focus       : Linux Systems, Autonomous AI Architectures, Systems Automation & Open Source
+Methodology : Understand internals → Build reliably → Benchmark → Automate
+Status      : Active contributor & systems builder
+```
 
-I like understanding systems from the inside out: build it → test it → break it → fix it → automate it.
-
-> Build. Test. Understand. Improve.
+Computer Science engineer specializing in **Linux systems, autonomous AI agents, and systems automation**. I focus on software from the foundation up: understanding kernel interfaces, POSIX standards, memory constraints, and neural compute runtimes, then building robust tools, reproducible experiments, and automated infrastructure.
 
 ---
 
-## ⚡ Current Focus
+### ⚡ Current Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🐧 Systems
-- Linux / Arch Linux
-- System tooling & automation
-- Bash / Python / C++
-- Infrastructure & developer tooling
+#### 🐧 Systems & Infrastructure
+* **Operating Systems:** Linux internals, Arch Linux daily driver, POSIX standards
+* **Tooling & Automation:** Modular Bash engineering, system utilities, Python, C++
+* **Infrastructure:** Systemd service hardening, containerization, reproducible builds
+* **Design Goals:** Minimal bloat, high execution speed, zero unnecessary dependencies
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Research
-- Machine Learning
-- Reinforcement Learning
-- AI-assisted engineering
-- Research-oriented experimentation
+#### 🤖 AI & Autonomous Systems
+* **Reinforcement Learning:** Gymnasium benchmarking, policy optimization, adaptive control
+* **Autonomous Agents:** On-device agentic architectures under strict resource constraints (<50MB RAM)
+* **Computer Vision:** Planetary surface image registration, feature matching under severe illumination shifts
+* **Deep Learning:** PyTorch, ONNX, edge inference, reproducible training pipelines
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Open Source
-- Code reviews
-- Issue solving
-- Testing & CI
-- GitHub automation
+#### 🌐 Open Source & Reliability
+* **Code Quality:** Comprehensive test suites, behavioral validation, static analysis
+* **CI/CD Automation:** Declarative GitHub Actions workflows, automated releases
+* **Upstream Contributions:** Issue triage, code reviews, PR testing, reproducible reproductions
+* **Toolchains:** Strict linting, formatting, deterministic environment configurations
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 Building
-- ARL
-- ResilienceOS
-- LinuxScripts
-- Developer tools & experiments
+#### 🔬 Active Engineering
+* **[AdaptiveRL (ARL)](https://github.com/StellarResearch/ARL):** Modular reinforcement learning platform
+* **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts):** 53-point validated Linux administration toolkit
+* **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS):** Resilient, offline-first Arch Linux ISO architecture
+* **[ETS](https://github.com/ashishsinghbora/ETS):** Client-side encrypted tiered cloud storage for SBCs
 
 </td>
 </tr>
@@ -69,100 +81,75 @@ I like understanding systems from the inside out: build it → test it → break
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | What it is |
-|---|---|
-| **[ARL](https://github.com/StellarResearch/ARL)** | Reinforcement-learning research and autonomous systems |
-| **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts)** | Practical Linux automation and utility scripts |
-| **[ETS](https://github.com/ashishsinghbora/ETS)** | Privacy-focused cloud storage experimentation |
-| **[Samanvaya](https://github.com/ashishsinghbora)** | Open-source software engineering project |
-| **ResilienceOS** | Lightweight Linux environment for resilient/offline workflows |
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+| Project | Domain | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **[AdaptiveRL](https://github.com/StellarResearch/ARL)** | Reinforcement Learning | Modular multi-environment reinforcement learning framework benchmarked across Farama Gymnasium environments up to autonomous 3D drone navigation. | `Python` `PyTorch` `Gymnasium` `SB3` |
+| **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts)** | Linux Administration | Practical, modular Bash utilities for system administration, diagnostics, hardware telemetry, storage, and automated maintenance with zero bloat. | `Bash` `POSIX` `Shell` `CI/CD` |
+| **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS)** | Edge OS Architecture | Custom Arch Linux environment and ISO build pipeline designed for resilient, offline-capable, and edge computing workloads. | `Arch Linux` `Shell` `Systemd` |
+| **[ETS](https://github.com/ashishsinghbora/ETS)** | Storage & Encryption | Client-side encrypted tiered cloud storage pipeline optimized for low-power Linux single-board computers (Raspberry Pi, Rockchip) and home servers. | `Shell` `Linux` `Cryptography` |
+| **[Samanvaya](https://github.com/ashishsinghbora/Samanvaya)** | Computer Vision | Planetary image registration engine for lunar optical and NIR datasets under extreme shadow reversals. | `Python` `OpenCV` `NumPy` |
+| **[Void](https://github.com/ashishsinghbora/Void)** | On-Device AI | Ultra-lightweight local agentic platform designed for Android/Termux environments operating under strict memory constraints (<50MB RAM). | `Python` `Local LLMs` `Linux/Android` |
 
 ---
 
-## 📊 GitHub
+### 🧰 Technical Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashishsinghbora&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsinghbora&layout=compact&hide_border=true&langs_count=8" height="165">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsinghbora&hide_border=true" height="165">
-
-</div>
-
----
-
-## 📈 Live Activity
-
-<!-- AUTO:START -->
-Profile data is updated automatically every day by GitHub Actions.
-
-Last automated update: pending first workflow run.
-<!-- AUTO:END -->
+```text
+┌──────────────────┬─────────────────────────────────────────────────────────────┐
+│ Layer            │ Technologies                                                │
+├──────────────────┼─────────────────────────────────────────────────────────────┤
+│ Core & Systems   │ Linux (Arch), Bash / POSIX Shell, C++, Python, Git          │
+│ AI / ML Runtimes │ PyTorch, Farama Gymnasium, Stable-Baselines3, OpenCV, NumPy │
+│ Infrastructure   │ Docker, GitHub Actions, Systemd, Linux userland utilities   │
+│ Web & Interfaces │ TypeScript, Next.js, Tailwind CSS                           │
+└──────────────────┴─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📡 Live Profile Metrics
+### 📡 Live Profile Telemetry
 
 <!-- PROFILE:START -->
-| Metric | Value |
-|---|---:|
-| Public repositories | Updating... |
-| Followers | Updating... |
-| Following | Updating... |
-| Public gists | Updating... |
+| Metric | Specification | Status |
+| :--- | :--- | :---: |
+| **Public Repositories** | Active open source repositories | `23` |
+| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 303` |
+| **Followers** | Technical peers & collaborators | `105` |
+| **Following** | Engineers, researchers & projects followed | `549` |
+| **Public Gists** | Standalone scripts, configs & benchmarks | `2` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-09-25 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
 
-## 🧠 Engineering Philosophy
+### 📈 Recent Public Activity
 
-Problem → Understand → Build → Test → Automate → Document → Ship
+<!-- AUTO:START -->
+| Repository | Description | Language | Stars | Last Pushed |
+| :--- | :--- | :---: | :---: | :---: |
+| **[Decentralized_App](https://github.com/ashishsinghbora/Decentralized_App)** | — | `TypeScript` | ★ 13 | `2026-09-24` |
+| **[Project_Hub](https://github.com/ashishsinghbora/Project_Hub)** | SelfLearningML | `Python` | ★ 14 | `2026-09-24` |
+| **[pricloudspace](https://github.com/ashishsinghbora/pricloudspace)** | — | `—` | ★ 14 | `2026-09-24` |
+| **[Portfolio](https://github.com/ashishsinghbora/Portfolio)** | This is my portfolio website | `TypeScript` | ★ 13 | `2026-09-24` |
+| **[ETS](https://github.com/ashishsinghbora/ETS)** | Encrypted Tiered Cloud Storage [ETS] Production-grade, lightweight, client-side encrypted ti... | `Shell` | ★ 14 | `2026-09-24` |
+| **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS)** | — | `—` | ★ 13 | `2026-09-24` |
 
-I care more about **working systems and reproducible engineering** than just writing code.
+> ⚡ *Automated live sync executed on `2026-09-25` via GitHub Actions.*
+<!-- AUTO:END -->
 
 ---
 
-## 🌱 Open Source
+### 🧠 Engineering Principles
 
-I enjoy contributing through:
-
-- 🐛 Bug fixing and issue investigation
-- 🔍 Code review and quality improvements
-- 🧪 Tests and CI improvements
-- ⚙️ Developer tooling and automation
-- 📚 Documentation and reproducible workflows
+* **First-Principles Grounding:** Understand lower-level fundamentals before layering abstractions.
+* **Deterministic & Reproducible:** Enforce strict configurations, seeds, and automated validation.
+* **Minimal Dependencies:** Prioritize the standard library and native OS capabilities over heavy frameworks.
+* **Automate Everything:** If a process runs more than twice, encode it into a resilient script or CI workflow.
 
 ---
 
 <div align="center">
-
-### Let's build something useful.
-
-**Linux • AI/ML • Systems • Open Source**
-
-<sub>This profile README is maintained automatically with GitHub Actions.</sub>
-
+  <sub>Maintained automatically via GitHub Actions with pure Python standard library telemetry.</sub>
 </div>
