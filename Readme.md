@@ -114,12 +114,12 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- PROFILE:START -->
 | Metric | Specification | Status |
 | :--- | :--- | :---: |
-| **Public Repositories** | Active open source repositories | `23` |
-| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 303` |
-| **Followers** | Technical peers & collaborators | `105` |
-| **Following** | Engineers, researchers & projects followed | `549` |
+| **Public Repositories** | Active open source repositories | `24` |
+| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 327` |
+| **Followers** | Technical peers & collaborators | `107` |
+| **Following** | Engineers, researchers & projects followed | `405` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `2` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-09-25 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-09-26 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -129,14 +129,14 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- AUTO:START -->
 | Repository | Description | Language | Stars | Last Pushed |
 | :--- | :--- | :---: | :---: | :---: |
-| **[Decentralized_App](https://github.com/ashishsinghbora/Decentralized_App)** | — | `TypeScript` | ★ 13 | `2026-09-24` |
-| **[Project_Hub](https://github.com/ashishsinghbora/Project_Hub)** | SelfLearningML | `Python` | ★ 14 | `2026-09-24` |
-| **[pricloudspace](https://github.com/ashishsinghbora/pricloudspace)** | — | `—` | ★ 14 | `2026-09-24` |
-| **[Portfolio](https://github.com/ashishsinghbora/Portfolio)** | This is my portfolio website | `TypeScript` | ★ 13 | `2026-09-24` |
-| **[ETS](https://github.com/ashishsinghbora/ETS)** | Encrypted Tiered Cloud Storage [ETS] Production-grade, lightweight, client-side encrypted ti... | `Shell` | ★ 14 | `2026-09-24` |
-| **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS)** | — | `—` | ★ 13 | `2026-09-24` |
+| **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts)** | A collection of practical, safe, and modular Bash utilities for Linux system administration,... | `Shell` | ★ 13 | `2026-09-26` |
+| **[Flashcore](https://github.com/ashishsinghbora/Flashcore)** | FlashCore — Open-source, non-root Android utility to create bootable USB drives (Linux Hybri... | `Kotlin` | ★ 17 | `2026-09-26` |
+| **[Samanvaya](https://github.com/ashishsinghbora/Samanvaya)** | Planetary image registration engine for lunar optical and NIR datasets under extreme shadow... | `Python` | ★ 16 | `2026-09-26` |
+| **[Void](https://github.com/ashishsinghbora/Void)** | VOID (Versatile On-device Intelligent Daemon)is an enterprise-grade, ultra-lightweight local... | `Python` | ★ 15 | `2026-09-26` |
+| **[Magicloder](https://github.com/ashishsinghbora/Magicloder)** | Python script to download YouTube videos in highest resolution. | `Go` | ★ 16 | `2026-09-26` |
+| **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS)** | — | `—` | ★ 14 | `2026-09-26` |
 
-> ⚡ *Automated live sync executed on `2026-09-25` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-09-26` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
