@@ -114,12 +114,12 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- PROFILE:START -->
 | Metric | Specification | Status |
 | :--- | :--- | :---: |
-| **Public Repositories** | Active open source repositories | `28` |
-| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 330` |
-| **Followers** | Technical peers & collaborators | `111` |
-| **Following** | Engineers, researchers & projects followed | `405` |
-| **Public Gists** | Standalone scripts, configs & benchmarks | `2` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-09-28 (UTC)` |
+| **Public Repositories** | Active open source repositories | `30` |
+| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 340` |
+| **Followers** | Technical peers & collaborators | `110` |
+| **Following** | Engineers, researchers & projects followed | `406` |
+| **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-09-29 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -129,14 +129,14 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- AUTO:START -->
 | Repository | Description | Language | Stars | Last Pushed |
 | :--- | :--- | :---: | :---: | :---: |
-| **[csnotes](https://github.com/ashishsinghbora/csnotes)** | The open-source Computer Science textbook for students. | `—` | ★ 1 | `2026-09-27` |
-| **[androidai](https://github.com/ashishsinghbora/androidai)** | It is a android automation ai that automate what we do in our phones | `—` | ★ 1 | `2026-09-27` |
+| **[androidai](https://github.com/ashishsinghbora/androidai)** | It is a android automation ai that automate what we do in our phones | `—` | ★ 2 | `2026-09-28` |
+| **[csnotes](https://github.com/ashishsinghbora/csnotes)** | The open-source Computer Science textbook for students. | `—` | ★ 3 | `2026-09-28` |
+| **[Decentralized_App](https://github.com/ashishsinghbora/Decentralized_App)** | Mobile-first decentralized messaging app with DID identity, Matrix-compatible messaging, off... | `TypeScript` | ★ 13 | `2026-09-28` |
+| **[Project_Hub](https://github.com/ashishsinghbora/Project_Hub)** | SelfLearningML | `Python` | ★ 14 | `2026-09-28` |
+| **[Magicloder](https://github.com/ashishsinghbora/Magicloder)** | Python script to download YouTube videos in highest resolution. | `Go` | ★ 15 | `2026-09-28` |
 | **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts)** | A collection of practical, safe, and modular Bash utilities for Linux system administration,... | `Shell` | ★ 13 | `2026-09-26` |
-| **[Flashcore](https://github.com/ashishsinghbora/Flashcore)** | FlashCore — Open-source, non-root Android utility to create bootable USB drives (Linux Hybri... | `Kotlin` | ★ 17 | `2026-09-26` |
-| **[Samanvaya](https://github.com/ashishsinghbora/Samanvaya)** | Planetary image registration engine for lunar optical and NIR datasets under extreme shadow... | `Python` | ★ 16 | `2026-09-26` |
-| **[Void](https://github.com/ashishsinghbora/Void)** | VOID (Versatile On-device Intelligent Daemon)is an enterprise-grade, ultra-lightweight local... | `Python` | ★ 15 | `2026-09-26` |
 
-> ⚡ *Automated live sync executed on `2026-09-28` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-09-29` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
