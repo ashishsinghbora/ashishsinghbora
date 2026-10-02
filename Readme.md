@@ -116,10 +116,10 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | :--- | :--- | :---: |
 | **Public Repositories** | Active open source repositories | `32` |
 | **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 343` |
-| **Followers** | Technical peers & collaborators | `108` |
+| **Followers** | Technical peers & collaborators | `106` |
 | **Following** | Engineers, researchers & projects followed | `42` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-10-01 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-10-02 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -136,7 +136,7 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | **[Project_Hub](https://github.com/ashishsinghbora/Project_Hub)** | SelfLearningML | `Python` | ★ 14 | `2026-09-28` |
 | **[Magicloder](https://github.com/ashishsinghbora/Magicloder)** | Python script to download YouTube videos in highest resolution. | `Go` | ★ 15 | `2026-09-28` |
 
-> ⚡ *Automated live sync executed on `2026-10-01` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-10-02` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
