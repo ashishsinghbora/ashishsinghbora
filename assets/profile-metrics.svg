@@ -30,7 +30,7 @@
   <!-- Terminal Title & Status -->
   <text class="header-text" x="62" y="19">ashish@archlinux:~/telemetry --sys-stats</text>
   <circle cx="740" cy="15" r="3.5" fill="#3fb950" />
-  <text class="header-text" x="750" y="19" fill="#3fb950">LIVE SYNC · 2026-10-05</text>
+  <text class="header-text" x="750" y="19" fill="#3fb950">LIVE SYNC · 2026-10-06</text>
 
   <!-- Metric 1: Public Repositories -->
   <g transform="translate(30, 48)">
@@ -44,7 +44,7 @@
   <!-- Metric 2: Earned Stars -->
   <g transform="translate(245, 48)">
     <text class="metric-label" x="0" y="20">Ecosystem Stars</text>
-    <text class="metric-val accent-purple" x="0" y="52">343+</text>
+    <text class="metric-val accent-purple" x="0" y="52">325+</text>
     <text class="metric-sub accent-purple" x="0" y="70">★ Public &amp; Network</text>
   </g>
 
@@ -53,7 +53,7 @@
   <!-- Metric 3: Community Followers -->
   <g transform="translate(460, 48)">
     <text class="metric-label" x="0" y="20">Network Followers</text>
-    <text class="metric-val accent-green" x="0" y="52">104</text>
+    <text class="metric-val accent-green" x="0" y="52">103</text>
     <text class="metric-sub accent-green" x="0" y="70">↑ Following 42</text>
   </g>
 
