@@ -116,10 +116,10 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | :--- | :--- | :---: |
 | **Public Repositories** | Active open source repositories | `32` |
 | **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 325` |
-| **Followers** | Technical peers & collaborators | `103` |
+| **Followers** | Technical peers & collaborators | `101` |
 | **Following** | Engineers, researchers & projects followed | `42` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-10-06 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-10-07 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -136,7 +136,7 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | **[pricloudspace](https://github.com/ashishsinghbora/pricloudspace)** | — | `—` | ★ 14 | `2026-10-05` |
 | **[Samanvaya](https://github.com/ashishsinghbora/Samanvaya)** | Planetary image registration engine for lunar optical and NIR datasets under extreme shadow... | `Python` | ★ 15 | `2026-10-05` |
 
-> ⚡ *Automated live sync executed on `2026-10-06` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-10-07` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
