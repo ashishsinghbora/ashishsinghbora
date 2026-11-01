@@ -114,12 +114,12 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- PROFILE:START -->
 | Metric | Specification | Status |
 | :--- | :--- | :---: |
-| **Public Repositories** | Active open source repositories | `32` |
-| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 325` |
-| **Followers** | Technical peers & collaborators | `93` |
+| **Public Repositories** | Active open source repositories | `34` |
+| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 327` |
+| **Followers** | Technical peers & collaborators | `92` |
 | **Following** | Engineers, researchers & projects followed | `43` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-10-31 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-11-01 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -129,14 +129,14 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- AUTO:START -->
 | Repository | Description | Language | Stars | Last Pushed |
 | :--- | :--- | :---: | :---: | :---: |
+| **[Sentinel_EASM](https://github.com/ashishsinghbora/Sentinel_EASM)** | — | `—` | ★ 1 | `2026-10-31` |
+| **[MailRadar](https://github.com/ashishsinghbora/MailRadar)** | It's Email Management System | `Python` | ★ 1 | `2026-10-31` |
 | **[LinuxScripts](https://github.com/ashishsinghbora/LinuxScripts)** | A collection of practical, safe, and modular Bash utilities for Linux system administration,... | `Shell` | ★ 12 | `2026-10-05` |
 | **[ResilienceOS](https://github.com/ashishsinghbora/ResilienceOS)** | — | `—` | ★ 13 | `2026-10-05` |
 | **[ETS](https://github.com/ashishsinghbora/ETS)** | Encrypted Tiered Cloud Storage [ETS] Production-grade, lightweight, client-side encrypted ti... | `Shell` | ★ 14 | `2026-10-05` |
 | **[Void](https://github.com/ashishsinghbora/Void)** | VOID (Versatile On-device Intelligent Daemon)is an enterprise-grade, ultra-lightweight local... | `Python` | ★ 14 | `2026-10-05` |
-| **[pricloudspace](https://github.com/ashishsinghbora/pricloudspace)** | — | `—` | ★ 14 | `2026-10-05` |
-| **[Samanvaya](https://github.com/ashishsinghbora/Samanvaya)** | Planetary image registration engine for lunar optical and NIR datasets under extreme shadow... | `Python` | ★ 15 | `2026-10-05` |
 
-> ⚡ *Automated live sync executed on `2026-10-31` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-11-01` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
