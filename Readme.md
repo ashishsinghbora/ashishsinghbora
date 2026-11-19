@@ -115,11 +115,11 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | Metric | Specification | Status |
 | :--- | :--- | :---: |
 | **Public Repositories** | Active open source repositories | `35` |
-| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 365` |
-| **Followers** | Technical peers & collaborators | `95` |
+| **Total Stars Earned** | Public repositories & ecosystem contributions | `★ 367` |
+| **Followers** | Technical peers & collaborators | `96` |
 | **Following** | Engineers, researchers & projects followed | `44` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-11-18 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-11-19 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -129,14 +129,14 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 <!-- AUTO:START -->
 | Repository | Description | Language | Stars | Last Pushed |
 | :--- | :--- | :---: | :---: | :---: |
+| **[Flashcore](https://github.com/ashishsinghbora/Flashcore)** | FlashCore — Open-source, non-root Android utility to create bootable USB drives (Linux Hybri... | `Kotlin` | ★ 19 | `2026-11-19` |
 | **[LinkVault](https://github.com/ashishsinghbora/LinkVault)** | — | `TypeScript` | ★ 2 | `2026-11-04` |
 | **[Decentralized_App](https://github.com/ashishsinghbora/Decentralized_App)** | Mobile-first decentralized messaging app with DID identity, Matrix-compatible messaging, off... | `TypeScript` | ★ 14 | `2026-11-02` |
 | **[Project_Hub](https://github.com/ashishsinghbora/Project_Hub)** | SelfLearningML | `Python` | ★ 15 | `2026-11-02` |
-| **[EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)** | An industry-grade autonomous EDA & VLSI verification framework that automates the hardware w... | `Python` | ★ 15 | `2026-11-02` |
 | **[Portfolio](https://github.com/ashishsinghbora/Portfolio)** | This is my portfolio website | `TypeScript` | ★ 14 | `2026-11-02` |
-| **[pricloudspace](https://github.com/ashishsinghbora/pricloudspace)** | — | `—` | ★ 15 | `2026-11-02` |
+| **[EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)** | An industry-grade autonomous EDA & VLSI verification framework that automates the hardware w... | `Python` | ★ 15 | `2026-11-02` |
 
-> ⚡ *Automated live sync executed on `2026-11-18` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-11-19` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
