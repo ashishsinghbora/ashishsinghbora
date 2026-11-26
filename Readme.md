@@ -119,7 +119,7 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | **Followers** | Technical peers & collaborators | `95` |
 | **Following** | Engineers, researchers & projects followed | `44` |
 | **Public Gists** | Standalone scripts, configs & benchmarks | `3` |
-| **Telemetry Status** | Last automated verification timestamp | `2026-11-25 (UTC)` |
+| **Telemetry Status** | Last automated verification timestamp | `2026-11-26 (UTC)` |
 <!-- PROFILE:END -->
 
 ---
@@ -136,7 +136,7 @@ Computer Science engineer specializing in **Linux systems, autonomous AI agents,
 | **[Portfolio](https://github.com/ashishsinghbora/Portfolio)** | This is my portfolio website | `TypeScript` | ★ 14 | `2026-11-02` |
 | **[EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)** | An industry-grade autonomous EDA & VLSI verification framework that automates the hardware w... | `Python` | ★ 15 | `2026-11-02` |
 
-> ⚡ *Automated live sync executed on `2026-11-25` via GitHub Actions.*
+> ⚡ *Automated live sync executed on `2026-11-26` via GitHub Actions.*
 <!-- AUTO:END -->
 
 ---
